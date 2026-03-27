@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+*.log
+temp_*.py
+test_api.js
+resume_text*.txt
